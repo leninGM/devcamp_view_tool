@@ -20,7 +20,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+@copyright = DevcampViewToolTestGem::Render.copyright 'Lenin Godinez', 'All rights reserved.'
+```
+
 
 ## Development
 
